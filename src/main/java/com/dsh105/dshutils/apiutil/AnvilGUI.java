@@ -1,6 +1,6 @@
-package com.dsh105.dshutils.apiutil;
+package com.samistine.echopet.libraries.dshutils.apiutil;
 
-import com.dsh105.dshutils.DSHPlugin;
+import com.samistine.echopet.libraries.dshutils.DSHPlugin;
 import net.minecraft.server.v1_7_R2.ContainerAnvil;
 import net.minecraft.server.v1_7_R2.EntityHuman;
 import net.minecraft.server.v1_7_R2.EntityPlayer;

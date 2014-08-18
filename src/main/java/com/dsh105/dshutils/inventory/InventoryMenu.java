@@ -1,7 +1,7 @@
-package com.dsh105.dshutils.inventory;
+package com.samistine.echopet.libraries.dshutils.inventory;
 
-import com.dsh105.dshutils.DSHPlugin;
-import com.dsh105.dshutils.util.IDGenerator;
+import com.samistine.echopet.libraries.dshutils.DSHPlugin;
+import com.samistine.echopet.libraries.dshutils.util.IDGenerator;
 import org.bukkit.Bukkit;
 import org.bukkit.entity.HumanEntity;
 import org.bukkit.entity.Player;

@@ -1,6 +1,6 @@
-package com.dsh105.dshutils.config.options;
+package com.samistine.echopet.libraries.dshutils.config.options;
 
-import com.dsh105.dshutils.config.YAMLConfig;
+import com.samistine.echopet.libraries.dshutils.config.YAMLConfig;
 
 
 public abstract class Options {

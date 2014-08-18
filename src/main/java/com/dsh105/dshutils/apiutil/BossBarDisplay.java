@@ -1,7 +1,7 @@
-package com.dsh105.dshutils.apiutil;
+package com.samistine.echopet.libraries.dshutils.apiutil;
 
-import com.dsh105.dshutils.DSHPlugin;
-import com.dsh105.dshutils.util.ReflectionUtil;
+import com.samistine.echopet.libraries.dshutils.DSHPlugin;
+import com.samistine.echopet.libraries.dshutils.util.ReflectionUtil;
 import net.minecraft.server.v1_7_R2.*;
 import org.bukkit.Location;
 import org.bukkit.craftbukkit.v1_7_R2.entity.CraftPlayer;

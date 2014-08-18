@@ -1,4 +1,4 @@
-package com.dsh105.dshutils.util;
+package com.samistine.echopet.libraries.dshutils.util;
 
 import com.dsh105.dshutils.DSHPlugin;
 import com.dsh105.dshutils.logger.Logger;

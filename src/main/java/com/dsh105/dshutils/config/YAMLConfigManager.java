@@ -1,4 +1,4 @@
-package com.dsh105.dshutils.config;
+package com.samistine.echopet.libraries.dshutils.config;
 
 import org.bukkit.plugin.java.JavaPlugin;
 

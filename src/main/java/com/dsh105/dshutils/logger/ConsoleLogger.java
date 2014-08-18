@@ -1,6 +1,6 @@
-package com.dsh105.dshutils.logger;
+package com.samistine.echopet.libraries.dshutils.logger;
 
-import com.dsh105.dshutils.DSHPlugin;
+import com.samistine.echopet.libraries.dshutils.DSHPlugin;
 import org.bukkit.command.ConsoleCommandSender;
 import org.bukkit.plugin.java.JavaPlugin;
 

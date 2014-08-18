@@ -1,4 +1,4 @@
-package com.dsh105.dshutils.command;
+package com.samistine.echopet.libraries.dshutils.command;
 
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;

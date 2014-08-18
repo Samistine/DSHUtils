@@ -1,4 +1,4 @@
-package com.dsh105.dshutils.util;
+package com.samistine.echopet.libraries.dshutils.util;
 
 
 public class EnumUtil {

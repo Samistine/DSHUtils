@@ -1,4 +1,4 @@
-package com.dsh105.dshutils.pagination;
+package com.samistine.echopet.libraries.dshutils.pagination;
 
 import java.util.ArrayList;
 

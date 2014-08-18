@@ -1,7 +1,7 @@
-package com.dsh105.dshutils;
+package com.samistine.echopet.libraries.dshutils;
 
-import com.dsh105.dshutils.config.YAMLConfigManager;
-import com.dsh105.dshutils.logger.ConsoleLogger;
+import com.samistine.echopet.libraries.dshutils.config.YAMLConfigManager;
+import com.samistine.echopet.libraries.dshutils.logger.ConsoleLogger;
 import org.bukkit.plugin.java.JavaPlugin;
 
 import java.util.Random;

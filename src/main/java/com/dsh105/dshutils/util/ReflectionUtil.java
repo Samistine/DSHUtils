@@ -1,4 +1,4 @@
-package com.dsh105.dshutils.util;
+package com.samistine.echopet.libraries.dshutils.util;
 
 import org.bukkit.FireworkEffect;
 import org.bukkit.Location;

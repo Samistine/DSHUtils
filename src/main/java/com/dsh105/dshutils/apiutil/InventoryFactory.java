@@ -1,4 +1,4 @@
-package com.dsh105.dshutils.apiutil;
+package com.samistine.echopet.libraries.dshutils.apiutil;
 
 import org.bukkit.Bukkit;
 import org.bukkit.configuration.ConfigurationSection;

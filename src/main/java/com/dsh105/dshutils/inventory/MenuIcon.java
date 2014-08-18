@@ -1,4 +1,4 @@
-package com.dsh105.dshutils.inventory;
+package com.samistine.echopet.libraries.dshutils.inventory;
 
 import org.bukkit.ChatColor;
 import org.bukkit.entity.Player;

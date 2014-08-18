@@ -1,6 +1,6 @@
-package com.dsh105.dshutils.command;
+package com.samistine.echopet.libraries.dshutils.command;
 
-import com.dsh105.dshutils.DSHPlugin;
+import com.samistine.echopet.libraries.dshutils.DSHPlugin;
 import org.apache.commons.lang.Validate;
 import org.bukkit.command.*;
 

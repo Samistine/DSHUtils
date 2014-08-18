@@ -1,4 +1,4 @@
-package com.dsh105.dshutils;
+package com.samistine.echopet.libraries.dshutils;
 
 import com.dsh105.dshutils.util.ReflectionUtil;
 import net.minecraft.server.v1_7_R2.PacketPlayOutWorldParticles;
